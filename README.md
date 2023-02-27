@@ -1,1 +1,1 @@
-# Spam-mail-classification_-coursework
+# Spam-mail-classification-coursework
